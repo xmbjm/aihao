@@ -1,0 +1,23 @@
+{
+    "作者": "cally",
+    "站名": "厂长",
+    "主页url": "https://bo.czys.me",
+    "简介": "【cally】提醒您请勿相信影片中的广告，以免上当受骗！+yp_context\">&&</div>",
+    "数组": "<li><&&</li>",
+    "标题": "alt=\"&&\"",
+    "图片": "data-original=\"&&\"",
+    "链接": "href=\"&&\"",
+    "搜索url": "https://bo.czys.me/xssearch?q={wd}",
+    "搜索数组": "<li>&&</li>",
+    "搜索标题": "alt=\"&&\"",
+    "搜索副标题": "<span>&&</span>",
+    "搜索图片": "data-original=\"&&\"",
+    "搜索链接": "href=\"&&\"",
+    "线路数组": "mi_paly_box\">&&</div>",
+    "线路标题": "<span>&&</span>",
+    "播放数组": "paly_list_btn\">&&</div>",
+    "播放标题": ">&&<",
+    "播放列表": "<a&&/a>",
+    "分类url": "https://bo.czys.me/{cateId}/page/{catePg}",
+    "分类": "豆瓣热播$dbtop250#电影$zuixindianying#电视剧$gcj#剧场动画$dongmanjuchangban#美剧$meijutt#韩剧$hanjutv#番剧$fanju"
+}
